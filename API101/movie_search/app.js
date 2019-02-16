@@ -7,7 +7,7 @@ app.get("/search",function(req,res){
         if(!error && response.statusCode == 200)
         {
             var results=JSON.parse(body);
-            res.send(results["Title"]);
+            res.send(results);
         }
     });
 });
