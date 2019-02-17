@@ -1,0 +1,19 @@
+{
+  "name": "full-stack-web-dev",
+  "version": "1.0.0",
+  "description": "A repository that contains all my full stack web development projects.\r ## Description of projects\r 1. App.js is a Express app that contains routes written for subreddit pages of Reddit.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syedsharjil/Full-Stack-Web-Dev.git"
+  },
+  "author": "Syed Sharjil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syedsharjil/Full-Stack-Web-Dev/issues"
+  },
+  "homepage": "https://github.com/syedsharjil/Full-Stack-Web-Dev#readme"
+}
